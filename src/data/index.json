@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML, CSS, javascript, tailwindcss , React Native, React js"
+    },
+    {
+      "id": "2",
+      "src": "./img/product-chain-1.png",
+      "title": "Back-End",
+      "description": "Nodejs, sql, MongoDB, PHP, Firebase"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Figma , Adobe Xd, Adobe Photoshop, Adobe Illustrator"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-2.png",
+      "title": "Other",
+      "description": "VS code, Android Studio, Junit , Selenium, Adobe Premierepro"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/mini.png",
+      "title": "Ai ChatBot",
+      "description": "React Native, TailwindcCSS, python, javascript",
+      "link": "View In Github",
+      "project" : "https://github.com/ruchikageeminda97/Mini_project"
+    },
+    {
+      "id": "2",
+      "src": "./img/ytb.png",
+      "title": "App Dashboard",
+      "description": "React Native, TailwindcCSS, javascript, Rapid API ",
+      "link": "View In Github",
+      "project" : "https://github.com/ruchikageeminda97/Youtube_CloneApp"
+    },
+    {
+      "id": "3",
+      "src": "./img/sdf.png",
+      "title": "Weather App",
+      "description": "React Native, TailwindcCSS, javascript, Rapid API",
+      "link": "View In Github",
+      "project" : "https://github.com/ruchikageeminda97/My_weatherapp_usingRapidAPI"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
